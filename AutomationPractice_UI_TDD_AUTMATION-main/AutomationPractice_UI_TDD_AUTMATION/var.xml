@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<class>
+
+    <baseURL>http://automationpractice.com/index.php</baseURL>
+    <browser>chrome</browser>
+    <mail>qquestionanswerr@gmail.com</mail>
+    <password></password>
+
+    <databaseIp>11.11.11.111</databaseIp>
+    <connectionUrlBase>jdbc:mysql://20.11.99.111:3306</connectionUrlBase>
+    <databaseName>aaa</databaseName>
+    <dbUser>aaaa</dbUser>
+    <dbPassword>aaaa</dbPassword>
+
+
+
+</class>
+
+
